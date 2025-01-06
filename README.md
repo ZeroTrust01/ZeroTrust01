@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ### About Me
 
@@ -34,3 +33,12 @@ For private audits or security consulting, please reach out to me on Twitter ([Z
 | [Teller Finance](https://audits.sherlock.xyz/contests/295/leaderboard?filter=questions)                       | Teller is a non-custodial lending book that enables time-based loans. |                  8 / 174                   | Sherlock  | 2024.04 |
 | [Zap Protocol](https://audits.sherlock.xyz/contests/243?filter=questions)                                  | ZAP is a token launch and distribution protocol, initially built on Blast. It offers curated and permissionless token sales as well as chapter based air drops for projects. |                  12/ 191                    | Sherlock  | 2024.03 |
 | [Axis Finance](https://audits.sherlock.xyz/contests/206?filter=questions)                                | Axis is a modular auction protocol. It supports abstract atomic or batch auction formats, which can be added to the central auction house as modules. |                  15/ 180                   | Sherlock  | 2024.03 |
+
+## Private/Team Audits
+
+### Blackthorn - Sherlock's private security firm
+- Majora 
+
+### Pashov Group
+- Stardusts V1
+- Cove Protocol 
