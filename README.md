@@ -18,6 +18,7 @@ For private audits or security consulting, please reach out to me on Twitter ([Z
 
 | Contest                              | Description                                                  | &nbsp;&nbsp;Ranking&nbsp;&nbsp; | Platform  | Date |
 | ------------------------------------ | ------------------------------------------------------------ | :-----------------------------------------: | :-------: | :--: |
+| [Allora v0.8.0 Update](https://audits.sherlock.xyz/contests/728/leaderboard)                         | Allora is self-improving decentralized intelligence built by the community.  |                  🥉3  / 30                 | Sherlock  | 2025.01 |
 | [Flayer](https://audits.sherlock.xyz/contests/468?filter=questions)                         | ƒlayer is a liquidity protocol for NFTs with custom Uniswap V4 hook, donate and pool integrations. This audit is to ensure the absolute security in our codebase for the ƒlayer protocol and the Moongate bridge. |                  🥈2  / 299                  | Sherlock  | 2024.10 |
 | [InfinityPools](https://cantina.xyz/competitions/5617fffa-4b67-42a7-a9f5-dad93627faa3/leaderboard)                         | InfinityPools is a decentralized exchange that can offer unlimited leverage on any asset, with no liquidations, no counterparty risk and no oracles. |                  11  / 394                 | Cantina  | 2024.10 |
 | [Usual V1](https://audits.sherlock.xyz/contests/575?filter=questions)                                | Usual is a decentralized stablecoin issuer launched 3 months ago, now ranked among the top 15 with over $350M in TVL and 20k holders. |                  🥈2/ 293                  | Sherlock  | 2024.10 |
@@ -42,4 +43,6 @@ For private audits or security consulting, please reach out to me on Twitter ([Z
 
 ### Pashov Group
 - Stardusts V1
-- Cove Protocol 
+- Cove Protocol
+- Gacha
+- Pump
