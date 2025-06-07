@@ -12,7 +12,7 @@ Master of Engineering in Electronic Information Engineering
 
 - [Sherlock portfolio](https://audits.sherlock.xyz/watson/LZ_security)
 - Ranked in the top 3 in 10 audit contests at Code4rena and Sherlock,with also 15 top 10 finishings
-- 100+ High/Medium findings, with 15+ solo findings
+- 130+ High/Medium findings, with 20+ solo findings
 
 ## Public Audit Contests
 ​"Registered under 'LZ_security'"​​ means that I and @zhoocc form a team named ​​'LZ_security'​​ to participate in the contest.
