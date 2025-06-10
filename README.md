@@ -1,4 +1,5 @@
 
+
 ### About Me
 
 I'm an independent security researcher specializing in smart contract audits with a proven track record in public audit contests (with 10 top-three finishings) and extensive experience auditing complex and high-profile protocols. Currently, I'm a Senior Watson at [@sherlockdefi](https://twitter.com/sherlockdefi), and Certified Warden at [@code4rena](https://twitter.com/code4rena).
@@ -26,9 +27,9 @@ Master of Engineering in Electronic Information Engineering
 | [Flayer](https://audits.sherlock.xyz/contests/468?filter=questions)                         | Liquidity  with custom Uniswap V4 hooks, Solidity |                  🥈2  / 299                 | 9 High, 8 Medium(1 solo)  | Sherlock  | 2024.10 |
 | [InfinityPools](https://cantina.xyz/competitions/5617fffa-4b67-42a7-a9f5-dad93627faa3/leaderboard)                         | decentralized exchange, Solidity |                  11  / 394                | 1 High | Cantina  | 2024.10 |
 | [Usual V1](https://audits.sherlock.xyz/contests/575?filter=questions)                                | Decentralized stablecoin,Solidity **registered under 'LZ_security'** |                  🥈2/ 293            | 1 High      | Sherlock  | 2024.10 |
-| [WOOFi Swap on Solana](https://audits.sherlock.xyz/contests/535/leaderboard)                                |Dex, Sonala, **registered under 'LZ_security'**|                  6/ 116          |  1 Medium          | Sherlock  | 2024.09 |
-| [Orderly Vault Contract](https://audits.sherlock.xyz/contests/524?filter=questions)                                | Cross-Chain Bridge, Solidity, Sonala |                  🥈2/ 216          | 1 High, 1 Medium          | Sherlock  | 2024.09 |
-| [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e)                         | Cross-Chain Bridge, Solidity, Sonala,**registered under 'LZ_security'** |                  31 / 325                | 2 High, 4 Medium  | Cantina  | 2024.08 |
+| [WOOFi Swap on Solana](https://audits.sherlock.xyz/contests/535/leaderboard)                                |Dex, Solana, **registered under 'LZ_security'**|                  6/ 116          |  1 Medium          | Sherlock  | 2024.09 |
+| [Orderly Vault Contract](https://audits.sherlock.xyz/contests/524?filter=questions)                                | Cross-Chain Bridge, Solidity, Solana |                  🥈2/ 216          | 1 High, 1 Medium          | Sherlock  | 2024.09 |
+| [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e)                         | Cross-Chain Bridge, Solidity, Solana,**registered under 'LZ_security'** |                  31 / 325                | 2 High, 4 Medium  | Cantina  | 2024.08 |
 | [Mento x Good$ Integration](https://audits.sherlock.xyz/contests/598?filter=questions)                         | GoodDollar-specific exchange, Solidity |                  🥉3 / 114                | 1 Medium    | Sherlock  | 2024.08 |
 | [Notional Leveraged Vaults](https://audits.sherlock.xyz/contests/446?filter=questions)                         | Leveraged Vault integration with Pendle, Solidity |                  🥈2 / 326             | 5 High(2 solo), 3 Medium(2 solo)       | Sherlock  | 2024.07 |
 | [Allora](https://audits.sherlock.xyz/contests/454?filter=questions)      | L1, Cosmos SDK, **registered under 'LZ_security'** |                  🥉3 / 278                | 4 High(2 solo), 5 Medium(4 solo)    | Sherlock  | 2024.06 |
@@ -51,7 +52,8 @@ Master of Engineering in Electronic Information Engineering
 | 2025.5  | Sherlock	 | [Pond GNN]()		              | Launch market											 | 			  |
 | 2025.4  | Pashov Audit Group	 | [Cove](https://www.cove.finance/)		              | Yield, StableCoin vaults												 | 		[📑](https://github.com/Storm-Labs-Inc/cove-audits/blob/master/2025-04-19%5FPashov%5FCove.pdf)  |
 | 2025.1  | Pashov Audit Group	 | [Cove](https://www.cove.finance/)		              | Yield, StableCoin vaults												 | 		[📑](https://github.com/Storm-Labs-Inc/cove-audits/blob/master/2025-01-16%5FPashov%5FCove.pdf)	  |
-| 2025.1  | Pashov Audit Group   | [Pump Fun](https://pump.fun/)                          | Pump AMM and Pump launch, Sonala													 | 			  |
+| 2025.1  | Pashov Audit Group   | [Pump Fun](https://pump.fun/)                          | Pump AMM and Pump launch, Solana													 | 			  |
 | 2024.12 | Pashov Audit Group	 | [Stardusts](https://www.stardust.gg/)		                      | Game-Focused Erc20 Token				| 	[📑](https://github.com/pashov/audits/blob/master/team/pdf/Stardusts-security-review_2024-12-19.pdf)	  |
 | 2024.12 | Pashov Audit Group 	 | [Gacha]()                 	      | A game  using  onchain ticketing system			 							 |		[📑](https://github.com/pashov/audits/blob/master/team/pdf/Gacha-security-review_2025-01-27.pdf)	  |
 | 2024.11 | Sherlock 	 | [Majora](https://majora.finance/)                         | Yield Aggregator											 | [📑](https://majora.finance/security/sherlock-report.pdf)	|
+
