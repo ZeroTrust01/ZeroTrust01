@@ -21,7 +21,7 @@ Master of Engineering in Electronic Information Engineering
 
 | Contest                              | Description                                                  | &nbsp;&nbsp;Ranking&nbsp;&nbsp; | Findings| Platform  | Date |
 | ------------------------------------ | ------------------------------------------------------------ | :-----------------------------------------: | :-------:| :-------: | :--: |
-| [Attackathon Movement Labs](https://immunefi.com/audit-competition/movement-labs-attackathon/information/?utm_source=explore_results)                         | L2, Rust,Move,  **registered under 'LZ_security'**  |                         | 4 High, 1 Medium | Immunefi   | 2025.03 |
+| [Attackathon Movement Labs](https://immunefi.com/audit-competition/movement-labs-attackathon/leaderboard/)                         | L2, Rust,Move,  **registered under 'LZ_security'**  |         16 and 18                | 4 High, 1 Medium | Immunefi   | 2025.03 |
 | [Babylon Chain (Phase-2)](https://audits.sherlock.xyz/contests/677/leaderboard)                         | L1, Cosmos SDK, **registered under 'LZ_security'**  |                  🥇1  / 56                 | 2 High(2 solo) | Sherlock   | 2025.02 |
 | [Allora v0.8.0 Update](https://audits.sherlock.xyz/contests/728/leaderboard)                         | L1, Cosmos SDK, **registered under 'LZ_security'**  |                  🥉3  / 30                 | 6 High, 7 Medium(5 solo) | Sherlock   | 2025.01 |
 | [Flayer](https://audits.sherlock.xyz/contests/468?filter=questions)                         | Liquidity  with custom Uniswap V4 hooks, Solidity |                  🥈2  / 299                 | 9 High, 8 Medium(1 solo)  | Sherlock  | 2024.10 |
