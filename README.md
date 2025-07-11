@@ -49,6 +49,8 @@ Master of Engineering in Electronic Information Engineering
 
 | Date    | Platform 	 | Project                              | Category                                         	           | Report   	|
 | ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
+| 2025.5  | Pashov Audit Group	 | BTR solana program	              | Launch market	and staking				 | 			  |
+| 2025.5  | Sherlock	 | [arrakis-uniswap-v4-module](https://arrakis.finance/)	           | Yield Vaults										 | 			  |
 | 2025.5  | Sherlock	 | [Pond GNN]()		              | Launch market											 | 			  |
 | 2025.4  | Pashov Audit Group	 | [Cove](https://www.cove.finance/)		              | Yield, StableCoin vaults												 | 		[📑](https://github.com/Storm-Labs-Inc/cove-audits/blob/master/2025-04-19%5FPashov%5FCove.pdf)  |
 | 2025.1  | Pashov Audit Group	 | [Cove](https://www.cove.finance/)		              | Yield, StableCoin vaults												 | 		[📑](https://github.com/Storm-Labs-Inc/cove-audits/blob/master/2025-01-16%5FPashov%5FCove.pdf)	  |
