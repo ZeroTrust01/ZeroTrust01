@@ -21,6 +21,8 @@ Master of Engineering in Electronic Information Engineering
 
 | Contest                              | Description                                                  | &nbsp;&nbsp;Ranking&nbsp;&nbsp; | Findings| Platform  | Date |
 | ------------------------------------ | ------------------------------------------------------------ | :-----------------------------------------: | :-------:| :-------: | :--: |
+| [Citrea](https://cantina.xyz/code/49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1/overview/leaderboard/)                         | L2, Rust, ZK-EVM on Bitcoin,    |         6                | 1 High | Cantina   | 2025.07 |
+| [Chainlink Rewards](https://code4rena.com/audits/2025-06-chainlink-rewards/)                         | Solidity  |         12                |  1 Medium | Code4rena   | 2025.06|
 | [Attackathon Movement Labs](https://immunefi.com/audit-competition/movement-labs-attackathon/leaderboard/)                         | L2, Rust,Move,  **registered under 'LZ_security'**  |         16 and 18                | 4 High, 1 Medium | Immunefi   | 2025.03 |
 | [Babylon Chain (Phase-2)](https://audits.sherlock.xyz/contests/677/leaderboard)                         | L1, Cosmos SDK, **registered under 'LZ_security'**  |                  🥇1  / 56                 | 2 High(2 solo) | Sherlock   | 2025.02 |
 | [Allora v0.8.0 Update](https://audits.sherlock.xyz/contests/728/leaderboard)                         | L1, Cosmos SDK, **registered under 'LZ_security'**  |                  🥉3  / 30                 | 6 High, 7 Medium(5 solo) | Sherlock   | 2025.01 |
@@ -49,6 +51,7 @@ Master of Engineering in Electronic Information Engineering
 
 | Date    | Platform 	 | Project                              | Category                                         	           | Report   	|
 | ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
+| 2025.10  | Pashov Audit Group	 | CoalesceFi 	              | Lending market on Solana				 | 			  |
 | 2025.7  | Pashov Audit Group	 | BTR solana program	              | Launch market	and staking				 | 			  |
 | 2025.6  | Sherlock	 | [arrakis-uniswap-v4-module](https://arrakis.finance/)	           | Yield Vaults										 | [📑](https://github.com/ArrakisFinance/arrakis-modular/blob/main/audit/2025_07_21_Final_Arrakis_Collaborative_Audit_Report_1753099802.pdf)			  |
 | 2025.5  | Sherlock	 | Pond GNN              | Launch market											 | 			[📑](https://cdn.discordapp.com/attachments/1375126102481047703/1384526425981190144/2025.06.17_-_Final_-_Pond_Collaborative_Audit_Report_1750166557.pdf?ex=68ad0ef7&is=68abbd77&hm=162cbdf851170abf42f6aa9a217389ddf389420f0212c3f9e6176e6eea460bba&)  |
