@@ -21,6 +21,8 @@ Master of Engineering in Electronic Information Engineering
 
 | Contest                              | Description                                                  | &nbsp;&nbsp;Ranking&nbsp;&nbsp; | Findings| Platform  | Date |
 | ------------------------------------ | ------------------------------------------------------------ | :-----------------------------------------: | :-------:| :-------: | :--: |
+| [Privacy Cash](https://audits.sherlock.xyz/contests/1160/leaderboard)                         | ZK, Solana, **registered under 'LZ_security'**    |         🥇1/97               |  | Sherlock    | 2025.11 |
+| [Rezerve Money](https://audits.sherlock.xyz/contests/1134/leaderboard)                         | Evm, cross chain   |         8                |   | Sherlock   | 2025.09 |
 | [Citrea](https://cantina.xyz/code/49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1/overview/leaderboard/)                         | L2, Rust, ZK-EVM on Bitcoin,    |         6                | 1 High | Cantina   | 2025.07 |
 | [Chainlink Rewards](https://code4rena.com/audits/2025-06-chainlink-rewards/)                         | Solidity  |         12                |  1 Medium | Code4rena   | 2025.06|
 | [Attackathon Movement Labs](https://immunefi.com/audit-competition/movement-labs-attackathon/leaderboard/)                         | L2, Rust,Move,  **registered under 'LZ_security'**  |         16 and 18                | 4 High, 1 Medium | Immunefi   | 2025.03 |
@@ -51,6 +53,9 @@ Master of Engineering in Electronic Information Engineering
 
 | Date    | Platform 	 | Project                              | Category                                         	           | Report   	|
 | ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
+| 2025.12  | Sherlock	 | M^0 Limit Order	              |  Evm, Solana, cross chain order book				 | 			  |
+| 2025.11  | Pashov Audit Group	 | ReyaNetwork	              |  Evm, cross chain token				 | 			  |
+| 2025.11  | Pashov Audit Group	 | [Pump Fun](https://pump.fun/)  	   | Pump AMM and Pump launch, Solana				 | 			  |
 | 2025.10  | Pashov Audit Group	 | CoalesceFi 	              | Lending market on Solana				 | 			  |
 | 2025.7  | Pashov Audit Group	 | BTR solana program	              | Launch market	and staking				 | 			  |
 | 2025.6  | Sherlock	 | [arrakis-uniswap-v4-module](https://arrakis.finance/)	           | Yield Vaults										 | [📑](https://github.com/ArrakisFinance/arrakis-modular/blob/main/audit/2025_07_21_Final_Arrakis_Collaborative_Audit_Report_1753099802.pdf)			  |
