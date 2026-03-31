@@ -22,6 +22,8 @@ Master of Engineering in Electronic Information Engineering
 | Contest                              | Description                                                  | &nbsp;&nbsp;Ranking&nbsp;&nbsp; | Findings| Platform  | Date |
 | ------------------------------------ | ------------------------------------------------------------ | :-----------------------------------------: | :-------:| :-------: | :--: |
 | [Privacy Cash](https://audits.sherlock.xyz/contests/1160/leaderboard)                         | ZK, Solana, **registered under 'LZ_security'**    |         🥇1/97               |  | Sherlock    | 2025.11 |
+| [Attackathon  XRPL Lending Protocol](https://immunefi.com/audit-competition/xrpl-ripple-attackathon)                         | c++, XRPL Lending,  |        🥉3            |1 Critical, 4 High, 5 Medium | Immunefi   | 2025.10 |
+| [Monad](https://code4rena.com/audits/2025-09-monad)                         | L1, Rust, C++, Parallel EVM   |         8                | 1 High, 1 Medium | Code4rena   | 2025.09 |
 | [Rezerve Money](https://audits.sherlock.xyz/contests/1134/leaderboard)                         | Evm, cross chain   |         8                |   | Sherlock   | 2025.09 |
 | [Citrea](https://cantina.xyz/code/49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1/overview/leaderboard/)                         | L2, Rust, ZK-EVM on Bitcoin,    |         6                | 1 High | Cantina   | 2025.07 |
 | [Chainlink Rewards](https://code4rena.com/audits/2025-06-chainlink-rewards/)                         | Solidity  |         12                |  1 Medium | Code4rena   | 2025.06|
@@ -53,6 +55,10 @@ Master of Engineering in Electronic Information Engineering
 
 | Date    | Platform 	 | Project                              | Category                                         	           | Report   	|
 | ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
+| 2026.3  | Sherlock	 | Spine Finance Update	              |  Evm, Lending				 | 			  |
+| 2026.2  | Sherlock	 | SYMMIO	              |  Evm, DEX				 | 			  |
+| 2026.1  | Sherlock	 | Livo Launchpad	              |  Evm				 | 			  |
+| 2025.12  | Sherlock	 | Likwid Protocol	              |  Evm				 | 			  |
 | 2025.12  | Sherlock	 | M^0 Limit Order	              |  Evm, Solana, cross chain order book				 | 			  |
 | 2025.11  | Pashov Audit Group	 | ReyaNetwork	              |  Evm, cross chain token				 | 			  |
 | 2025.11  | Pashov Audit Group	 | [Pump Fun](https://pump.fun/)  	   | Pump AMM and Pump launch, Solana				 | 			  |
