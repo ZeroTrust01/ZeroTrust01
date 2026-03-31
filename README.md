@@ -59,7 +59,7 @@ Master of Engineering in Electronic Information Engineering
 | 2026.3  | Pashov Audit Group	 | Saffron Orca	              |  Solana				 | 			  |
 | 2026.2  | Sherlock	 | SYMMIO	              |  Evm, DEX				 | 			  |
 | 2026.2  | Pashov Audit Group	 | [Pump Fun](https://pump.fun/)	              |  Pump AMM and Pump launch, Solana				 | 			  |
-| 2026.2  | Pashov Audit Group	 | Doppler	              |  Evm				 | 			  |
+| 2026.2  | Pashov Audit Group	 | Doppler	              |  Solana				 | 			  |
 | 2026.1  | Sherlock	 | Livo Launchpad	              |  Evm				 | 			  |
 | 2025.12  | Sherlock	 | Likwid Protocol	              |  Evm				 | 			  |
 | 2025.12  | Sherlock	 | M^0 Limit Order	              |  Evm, Solana, cross chain order book				 | 			  |
