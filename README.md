@@ -73,6 +73,7 @@ Master of Engineering in Electronic Information Engineering
 | 2026.7 | Sherlock | Glacis Labs - July 29th |  |  |
 | 2026.7 | Sherlock | NestUSD - July 6th 2026 |  |  |
 | 2026.7 | Sherlock | Boardwalk - Update July 2026 |  |  |
+| 2026.4-5 | Pashov Audit Group | Polymarket2 |  |  |
 | 2026.5 | Sherlock | BMX Boardwalk Extension - May 13th 2026 |  |  |
 | 2026.4 | Sherlock | BMX - Apr 25th 2026 |  |  |
 | 2026.3  | Sherlock	 | Spine Finance Update	              |  Evm, Lending				 | 			  |
@@ -85,6 +86,7 @@ Master of Engineering in Electronic Information Engineering
 | 2025.12  | Sherlock	 | M^0 Limit Order	              |  Evm, Solana, cross chain order book				 | 			  |
 | 2025.11  | Pashov Audit Group	 | ReyaNetwork	              |  Evm, cross chain token				 | 			  |
 | 2025.11  | Pashov Audit Group	 | [Pump Fun](https://pump.fun/)  	   | Pump AMM and Pump launch, Solana				 | 			  |
+| 2025.10 | Pashov Audit Group | Enclave Solver Fund Pool | Solana, Rust, solver fund pool | [📑](https://github.com/pashov/audits/blob/master/team/pdf/Enclave-security-review_2025-10-25.pdf) |
 | 2025.10  | Pashov Audit Group	 | CoalesceFi 	              | Lending market on Solana				 | 			  |
 | 2025.7  | Pashov Audit Group	 | BTR solana program	              | Launch market	and staking				 | 			  |
 | 2025.6  | Sherlock	 | [arrakis-uniswap-v4-module](https://arrakis.finance/)	           | Yield Vaults										 | [📑](https://github.com/ArrakisFinance/arrakis-modular/blob/main/audit/2025_07_21_Final_Arrakis_Collaborative_Audit_Report_1753099802.pdf)			  |
