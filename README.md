@@ -26,6 +26,10 @@ Master of Engineering in Electronic Information Engineering
 | [Audit Comp Base Azul](https://immunefi.com/audit-competition/audit-comp-base-azul) | L2, Rust, Solidity | 19 | 3 Medium | Immunefi | 2026.04 |
 | [XRP Ledger - April 2026](https://audits.sherlock.xyz/contests/1260/leaderboard) | L1, MPT DEX, confidential transfers | 32 | 3 Medium | Sherlock | 2026.04 |
 | [Audit Comp Firedancer V1](https://immunefi.com/audit-competition/firedancer-v1-audit-comp) | Solana validator, C | 76 | 2 Low | Immunefi | 2026.04 |
+| [Current Finance](https://audits.sherlock.xyz/contests/1256) | Sui, leveraged yield, isolated margin markets | 12 | 1 High, 3 Medium | Sherlock | 2026.03 |
+| [Injective Peggy Bridge](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | Injective, cross-chain bridge | 22 | 1 Medium | Code4rena | 2026.02 |
+| [Fluid DEX v2](https://audits.sherlock.xyz/contests/1225) | DEX, lending protocol | 7 | 1 High, 2 Medium | Sherlock | 2026.01 |
+| [Rujira](https://code4rena.com/audits/2025-12-rujira) | THORChain app layer, cross-chain DeFi | 48 | 3 High, 2 Medium | Code4rena | 2025.12 |
 | [Privacy Cash](https://audits.sherlock.xyz/contests/1160/leaderboard)                         | ZK, Solana, **registered under 'LZ_security'**    |         🥇1/97               |  | Sherlock    | 2025.11 |
 | [Attackathon  XRPL Lending Protocol](https://immunefi.com/audit-competition/xrpl-ripple-attackathon)                         | c++, XRPL Lending,  |        🥉3            |1 Critical, 4 High, 5 Medium | Immunefi   | 2025.10 |
 | [Monad](https://code4rena.com/audits/2025-09-monad)                         | L1, Rust, C++, Parallel EVM   |         8                | 1 High, 1 Medium | Code4rena   | 2025.09 |
