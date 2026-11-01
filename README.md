@@ -69,6 +69,7 @@ Master of Engineering in Electronic Information Engineering
 | 2026.10 | Sherlock | Glacis Labs - Soroban Audit Oct 5th 2026 | Soroban |  |
 | 2026.9 | Sherlock | Glacis update Sept 17th - 20th |  |  |
 | 2026.9 | Sherlock | Glacis Labs - Sep 9th 2026 |  |  |
+| 2026.8 | Pashov Audit Group | LI.FI | Solana, cross-chain intent settlement |  |
 | 2026.7 | Sherlock | Glacis Labs - July 29th |  |  |
 | 2026.7 | Sherlock | NestUSD - July 6th 2026 |  |  |
 | 2026.7 | Sherlock | Boardwalk - Update July 2026 |  |  |
