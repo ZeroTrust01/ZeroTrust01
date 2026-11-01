@@ -21,6 +21,11 @@ Master of Engineering in Electronic Information Engineering
 
 | Contest                              | Description                                                  | &nbsp;&nbsp;Ranking&nbsp;&nbsp; | Findings| Platform  | Date |
 | ------------------------------------ | ------------------------------------------------------------ | :-----------------------------------------: | :-------:| :-------: | :--: |
+| [Raindrops Solana](https://audits.sherlock.xyz/contests/1283/leaderboard) | Solana, Rust | 7 |  | Sherlock | 2026.07 |
+| [Metric](https://audits.sherlock.xyz/contests/1279/leaderboard) | DEX, oracle-priced active liquidity | 20 | 3 Medium | Sherlock | 2026.07 |
+| [Audit Comp Base Azul](https://immunefi.com/audit-competition/audit-comp-base-azul) | L2, Rust, Solidity | 19 | 3 Medium | Immunefi | 2026.04 |
+| [XRP Ledger - April 2026](https://audits.sherlock.xyz/contests/1260/leaderboard) | L1, MPT DEX, confidential transfers | 32 | 3 Medium | Sherlock | 2026.04 |
+| [Audit Comp Firedancer V1](https://immunefi.com/audit-competition/firedancer-v1-audit-comp) | Solana validator, C | 76 | 2 Low | Immunefi | 2026.04 |
 | [Privacy Cash](https://audits.sherlock.xyz/contests/1160/leaderboard)                         | ZK, Solana, **registered under 'LZ_security'**    |         🥇1/97               |  | Sherlock    | 2025.11 |
 | [Attackathon  XRPL Lending Protocol](https://immunefi.com/audit-competition/xrpl-ripple-attackathon)                         | c++, XRPL Lending,  |        🥉3            |1 Critical, 4 High, 5 Medium | Immunefi   | 2025.10 |
 | [Monad](https://code4rena.com/audits/2025-09-monad)                         | L1, Rust, C++, Parallel EVM   |         8                | 1 High, 1 Medium | Code4rena   | 2025.09 |
@@ -55,6 +60,16 @@ Master of Engineering in Electronic Information Engineering
 
 | Date    | Platform 	 | Project                              | Category                                         	           | Report   	|
 | ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
+| 2026.10 | Sherlock | Glacis Labs NTTV2Facet - Oct 9th 2026 |  |  |
+| 2026.10 | Sherlock | Glacis Labs - Oct 7th 2026 |  |  |
+| 2026.10 | Sherlock | Glacis Labs - Soroban Audit Oct 5th 2026 | Soroban |  |
+| 2026.9 | Sherlock | Glacis update Sept 17th - 20th |  |  |
+| 2026.9 | Sherlock | Glacis Labs - Sep 9th 2026 |  |  |
+| 2026.7 | Sherlock | Glacis Labs - July 29th |  |  |
+| 2026.7 | Sherlock | NestUSD - July 6th 2026 |  |  |
+| 2026.7 | Sherlock | Boardwalk - Update July 2026 |  |  |
+| 2026.5 | Sherlock | BMX Boardwalk Extension - May 13th 2026 |  |  |
+| 2026.4 | Sherlock | BMX - Apr 25th 2026 |  |  |
 | 2026.3  | Sherlock	 | Spine Finance Update	              |  Evm, Lending				 | 			  |
 | 2026.3  | Pashov Audit Group	 | Saffron Orca	              |  Solana				 | 			  |
 | 2026.2  | Sherlock	 | SYMMIO	              |  Evm, DEX				 | 			  |
