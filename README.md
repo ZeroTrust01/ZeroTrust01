@@ -24,7 +24,7 @@ Master of Engineering in Electronic Information Engineering
 | [Raindrops Solana](https://audits.sherlock.xyz/contests/1283/leaderboard) | Solana, Rust | 7 |  | Sherlock | 2026.07 |
 | [Metric](https://audits.sherlock.xyz/contests/1279/leaderboard) | DEX, oracle-priced active liquidity | 20 | 3 Medium | Sherlock | 2026.07 |
 | [Audit Comp Base Azul](https://immunefi.com/audit-competition/audit-comp-base-azul) | L2, Rust, Solidity | 19 | 3 Medium | Immunefi | 2026.04 |
-| [XRP Ledger - April 2026](https://audits.sherlock.xyz/contests/1260/leaderboard) | L1, MPT DEX, confidential transfers | 32 | 3 Medium | Sherlock | 2026.04 |
+| [XRP Ledger - April 2026](https://audits.sherlock.xyz/contests/1260/leaderboard) | L1, MPT DEX, confidential transfers | 32 | 1 Critical, 3 Medium, 3 Low | Sherlock | 2026.04 |
 | [Audit Comp Firedancer V1](https://immunefi.com/audit-competition/firedancer-v1-audit-comp) | Solana validator, C | 76 | 2 Low | Immunefi | 2026.04 |
 | [Current Finance](https://audits.sherlock.xyz/contests/1256) | Sui, leveraged yield, isolated margin markets | 12 | 1 High, 3 Medium | Sherlock | 2026.03 |
 | [Injective Peggy Bridge](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | Injective, cross-chain bridge | 22 | 1 Medium | Code4rena | 2026.02 |
